@@ -1,6 +1,6 @@
 # Notorious NFA's
 
-# NonFungiableAssets-
+# NonFungiableAssets-001
 
 Creator: dero1qypj3sctlt7mefhvdhrvrygj55m40ugl7ml2dukzypxdtd2agpgsjqq2v3n6h
 
